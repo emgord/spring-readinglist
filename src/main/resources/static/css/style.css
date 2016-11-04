@@ -1,0 +1,17 @@
+body {
+    background-color: #7fa5e2;
+    font-family: arial,helvetica,sans-serif;
+}
+
+.bookHeadline {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.bookDescription {
+    font-size: 10pt;
+}
+
+label {
+    font-weight: bold;
+}
